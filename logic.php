@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('America/New_York');
+date_default_timezone_set('Kazakhstan/Almaty');
 $hour = intval(date('G'));
 
 if ($hour >= 5 && $hour < 11) {
